@@ -53,8 +53,8 @@ Main Components
   }
   .cd-header h1 {
     line-height: 50px;
-    font-size: 75%;
-    float: right;
+    font-size: 80%;
+    text-align: center;
   }
 }
 
