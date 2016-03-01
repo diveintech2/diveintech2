@@ -1,6 +1,6 @@
 # diveintech2.github.io
 
-(* Since this is hosted on github, we need to make sure locally that the new modification works. As soon as we push, it goes live)
+NB: Since this is hosted on github, we need to make sure locally that the new modification works. As soon as we push, it goes live
 
 To add a user, we need to change 2 parts of the code (occasionally 3, see bottom of page) : 
 
