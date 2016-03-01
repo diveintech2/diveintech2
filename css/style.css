@@ -47,16 +47,16 @@ Main Components
   font-size: 2.4rem;
   font-weight: 300;
 }
-/*
-@media only screen and (min-width: 1170px) {
+@media only screen and (max-width: 800px) {
   .cd-header {
-    height: 180px;
+    height: 50px;
   }
   .cd-header h1 {
-    line-height: 180px;
+    line-height: 50px;
+    font-size: 75%;
+    float: right;
   }
 }
-*/
 
 .cd-main-content {
   position: relative;
