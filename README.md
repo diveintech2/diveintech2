@@ -28,6 +28,43 @@ Part 1 : the profile (see example)
                     </div>
                 </li>
 
+Example :
+
+<!-- Ari Vaniderstine -->
+				<li class="mix makers Montreal radio2 Montreal">
+                    <div class="image-container">
+                        <div class="twitter">
+                            <a href="https://twitter.com/imariari" target="_blank">
+                                <img class="icon icon-twitter" src="img/twitter.png" alt="Ari Vaniderstine" data-pin-nopin="true"></a>
+                        </div>
+                        <div class="name">Ari Vaniderstine</div>
+                        <a href="https://twitter.com/imariari" target="_blank">
+                            <div class="blurb">
+                            Technical consultant by trade; blogger and hacker by choice. I get excited about design, development, community, marketing, writing, evangelism, and hedgehogs.                   
+                            </div>
+                            <img src="img/img-2-ari.jpg" alt="Ari Vaniderstine">
+                        </a>
+                    </div>
+                </li>
+
+
+<!-- example -->
+				<li class="mix typeMakerDesignOrFreeLance CityName1 radio3 CityName2">
+                    <div class="image-container">
+                    <div class="twitter">
+                        <a href="twitterAddress" target="_blank">
+                            <img class="icon icon-twitter" src="img/twitter.png" alt="profileName" data-pin-nopin="true">
+                        </a>
+                    </div>
+                    <a href="twitterAddress" target="_blank">
+                        <div class="name">profileName</div>
+                        <div class="blurb">
+                              twitter description
+                        </div>
+                        <img src="twitterPic" alt="profileName">
+                    </a>
+                    </div>
+                </li>
                 
 Part 2 : the city
   - cityName : put their city name (don't forget that theire is a . before the city name!)
