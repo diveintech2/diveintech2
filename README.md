@@ -31,19 +31,19 @@ Part 1 : the profile (see example)
   Example : 
   
   <!-- Shubheksha Jalan -->
-				<li class="mix makers idk radio3 idk">
+		<li class="mix makers idk radio3 idk">
                     <div class="image-container">
                     <div class="twitter">
-                        <a href="https:// twitter.com / ScribblingOn" target="_blank">
+                        <a href=https:// twitter.com / ScribblingOn target="_blank">
                             <img class="icon icon-twitter" src="img/twitter.png" alt="Shubheksha Jalan" data-pin-nopin="true">
                         </a>
                     </div>
-                    <a href="https:// twitter. com/ ScribblingOn" target="_blank">
+                    <a href=https:// twitter. com/ ScribblingOn target="_blank">
                         <div class="name">Shubheksha Jalan</div>
                         <div class="blurb">
                               Code. Books. Computers. Music. Poetry. Engineering. Just another human on this planet.
                         </div>
-                        <img src="img/ img-14_Scrib.jpeg" alt="Shubheksha Jalan">
+                        <img src=img/ img-14_Scrib.jpeg alt="Shubheksha Jalan">
                     </a>
                     </div>
                 </li>
