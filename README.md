@@ -1,6 +1,6 @@
 # diveintech2.github.io
 
-To add a user, we need to change 2 parts of the code (ocassionally 3, see bottom of page) : 
+To add a user, we need to change 2 parts of the code (occasionally 3, see bottom of page) : 
 
 Part 1 : the profile (see example)
   - instead of typeMakerDesignOrFreeLance, put the words "makers" or "designers" or "freelancers"
@@ -51,7 +51,7 @@ Example :
                 
 Part 2 : the city
   - cityName : put their city name (don't forget that theire is a . before the city name!)
-  - increment the number of checbox if we add a new city : say we add Cracovia, that will be checkbox7
+  - increment the number of checkbox if we add a new city : say we add Cracovia, that will be checkbox7
 
 <!-- city name -->
 	        			<li>
@@ -71,7 +71,7 @@ Part 3 : space between profile pics
 - for any new row (pair of 4 profile pic added), add this at the end of the profile pic sections (just before where the city section starts)
 
 <!-- city name -->
-<li class="gap"></li>
+		<li class="gap"></li>
 
 
                 
