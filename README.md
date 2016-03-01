@@ -34,7 +34,7 @@ Part 2 : the city
   - increment the number of checbox if we add a new city : say we add Cracovia, that will be checkbox7
 						
 	Example : 
-	        <li>
+	        			<li>
 			<input class="filter" data-filter=".Belgrade" type="checkbox" id="checkbox6">
 			<label class="checkbox-label" for="checkbox6">Belgrade</label>
 		</li>
