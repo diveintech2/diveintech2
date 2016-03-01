@@ -32,10 +32,6 @@ Part 1 : the profile (see example)
 Part 2 : the city
   - cityName : put their city name (don't forget that theire is a . before the city name!)
   - increment the number of checbox if we add a new city : say we add Cracovia, that will be checkbox7
-            <li>
-							<input class="filter" data-filter=".cityName" type="checkbox" id="checkbox6">
-			    			<label class="checkbox-label" for="checkbox6">cityName</label>
-						</li>
 						
 	Example : 
 	
