@@ -68,7 +68,7 @@ Example :
 		</li>
 		
 Part 3 : space between profile pics
-- for any new row (pair of 4 profile pic added), add this at the end of the profile pic sections (just before where the city section starts)
+- for any new row (pair of 4 profile pics added), add this at the end of the profile pic sections (just before where the city section starts)
 
 <!-- city name -->
 		<li class="gap"></li>
