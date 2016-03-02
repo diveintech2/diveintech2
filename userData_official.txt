@@ -1,0 +1,16 @@
+<li class="mix makers Boston radio3 'Boston'">
+                <div class="image-container">
+                <div class="twitter">
+                    <a href="https://twitter.com/wenhui_yang" target="_blank">
+                        <img class="icon icon-twitter" src="img/twitter.png" alt="Victoria" data-pin-nopin="true">
+                    </a>
+                </div>
+                <a href="https://twitter.com/wenhui_yang" target="_blank">
+                    <div class="name">Victoria</div>
+                    <div class="blurb">
+                          Hawaii girl living in Boston. Traveler @chicktechbos volunteer. Aspiring Technology Evangelist dedicated to #womenincomputing. Web Dev Intern at MassEnergy
+                    </div>
+                    <img src="twitterPic" alt="Victoria">
+                </a>
+                </div>
+            </li>

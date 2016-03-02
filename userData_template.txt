@@ -1,0 +1,16 @@
+<li class="mix typeMakerDesignOrFreeLance CityName1 radio3 'CityName2'">
+                <div class="image-container">
+                <div class="twitter">
+                    <a href="twitterAddress" target="_blank">
+                        <img class="icon icon-twitter" src="img/twitter.png" alt="profileName" data-pin-nopin="true">
+                    </a>
+                </div>
+                <a href="twitterAddress" target="_blank">
+                    <div class="name">profileName</div>
+                    <div class="blurb">
+                          twitter description
+                    </div>
+                    <img src="twitterPic" alt="profileName">
+                </a>
+                </div>
+            </li>
